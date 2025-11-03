@@ -6,12 +6,7 @@
 
 ---
 
-## 🧩 Typing Animation Introduction  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pavan+Makwana+👨‍💻;Full+Stack+Developer+%7C+AI+Enthusiast;Vibe+Coder+Who+Builds+Smart+and+Creative+Apps!" alt="Typing SVG" />
-</p>
 
----
 
 ## 💼 Professional Summary  
 
