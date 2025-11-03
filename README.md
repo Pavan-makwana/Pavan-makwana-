@@ -15,7 +15,7 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 
 > 💬 “Vibe + Code = Creation that feels alive.”  
 
-**What I Do Best:**  
+**What I Do Best:**  f
 - 💡 Building dynamic, responsive, and user-focused web apps  
 - ⚙️ Creating secure APIs, integrations, and automation tools  
 - 🤖 Exploring **AI automation & prompt-based development**  
@@ -86,7 +86,7 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 - Implemented charts and trading API behavior for interactive learning.  
 
 ### 🌐 [DriveSync.tech](https://drivesync.tech/)  
-**Tech:** Next.js, SEO Optimization  
+**Tech:** Using Scratch   
 - Freelance project built for scalability and SEO performance.  
 - Integrated client feedback system for smooth collaboration.  
 
