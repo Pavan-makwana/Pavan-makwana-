@@ -115,7 +115,7 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pavan-makwana&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-makwana&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Pavan-makwana&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -132,13 +132,6 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Pavan-makwana/Pavan-makwana/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
