@@ -115,7 +115,7 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pavan-makwana&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-makwana" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-makwana&theme=dark" />
 </p>
 
 <p align="center">
