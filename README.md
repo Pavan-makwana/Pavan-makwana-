@@ -96,12 +96,6 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 
 ---
 
-## 🎓 Education  
-
-🎓 **B.Sc. IT (Software Development)** – *Centre for Professional Courses, Gujarat University*  
-📆 2023 - 2026 | CGPA: 7.84  
-
----
 
 ## 📜 Certifications  
 
