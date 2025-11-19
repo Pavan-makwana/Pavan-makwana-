@@ -92,7 +92,13 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 
 ### 🥛 [Geetanjali Dairy](https://geetanjalidairy.com/)  
 - Freelance eCommerce-style website with modern responsive UI.  
-- Designed for optimized load times and mobile performance.  
+- Designed for optimized load times and mobile performance.
+-  
+### 🍽️ SoulRestoCafe
+- Restaurant-focused modern website with elegant UI & smooth user experience.
+- Built with responsive design, optimized images, and clear navigation for customers.
+- Freelance website with modern responsive UI.  
+- Designed for optimized load times and mobile performance with Menu Animation on Menu Page.  
 
 ---
 
