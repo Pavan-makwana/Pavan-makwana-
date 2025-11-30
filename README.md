@@ -85,13 +85,14 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 - Built a live stock trading simulation with real-time data visualization.  
 - Implemented charts and trading API behavior for interactive learning.  
 
+##  Client Projects  
 ### 🌐 [DriveSync.tech](https://drivesync.tech/)  
 **Tech:** Using Scratch   
 - Freelance project built for scalability and SEO performance.  
 - Integrated client feedback system for smooth collaboration.  
 
 ### 🥛 [Geetanjali Dairy](https://geetanjalidairy.com/)  
-- Freelance eCommerce-style website with modern responsive UI.  
+- Freelance  website with modern responsive UI.  
 - Designed for optimized load times and mobile performance.
 -  
 ### 🍽️ SoulRestoCafe
