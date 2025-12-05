@@ -13,7 +13,6 @@
 I’m a passionate and creative **Full Stack Developer** with hands-on experience in **React.js**, **Node.js**, and **Next.js**, crafting scalable and responsive applications.  
 I’ve delivered freelance projects end-to-end, blending design and logic to build impactful digital experiences.  
 
-> 💬 “Vibe + Code = Creation that feels alive.”  
 
 **What I Do Best:**  f
 - 💡 Building dynamic, responsive, and user-focused web apps  
