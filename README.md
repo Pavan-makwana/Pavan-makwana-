@@ -2,7 +2,8 @@
 
 🚀 **Full Stack Developer | React.js | Node.js | Next.js | AI & Prompt Engineering**  
 📍 Ahmedabad, India | ✉️ [pavan561981@gmail.com](mailto:pavan561981@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/pavan-makwana-05062oo6/) | 🧠 [GitHub](https://github.com/Pavan-makwana)  
+💼 [LinkedIn](https://www.linkedin.com/in/pavan-makwana-05062oo6/) | 🧠 [GitHub](https://github.com/Pavan-makwana)
+
 
 ---
 
@@ -10,7 +11,7 @@
 
 ## 💼 Professional Summary  
 
-I’m a passionate and creative **Full Stack Developer** with hands-on experience in **React.js**, **Node.js**, and **Next.js**, crafting scalable and responsive applications.  
+I’m a passionate and creative **Full Stack Developer** & **AI ENTHUSIAST**  with hands-on experience in **React.js**,  and **Next.js**, crafting scalable and responsive applications.  
 I’ve delivered freelance projects end-to-end, blending design and logic to build impactful digital experiences.  
 
 
