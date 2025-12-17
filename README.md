@@ -95,7 +95,7 @@ I’ve delivered freelance projects end-to-end, blending design and logic to bui
 - Freelance  website with modern responsive UI.  
 - Designed for optimized load times and mobile performance.
 -  
-### 🍽️ SoulRestoCafe
+### 🍽️ SoulRestoCafe(https://soulrestrocafe.com/)
 - Restaurant-focused modern website with elegant UI & smooth user experience.
 - Built with responsive design, optimized images, and clear navigation for customers.
 - Freelance website with modern responsive UI.  
