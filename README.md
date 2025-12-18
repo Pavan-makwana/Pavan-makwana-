@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Pavan Makwana!  
 
-🚀 **Full Stack Developer | React.js | Node.js | Next.js | AI & Prompt Engineering**  
+**Full Stack Developer | React.js | Node.js | Next.js |AI & ML learner | AI & Prompt Engineering**  
 📍 Ahmedabad, India | ✉️ [pavan561981@gmail.com](mailto:pavan561981@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/pavan-makwana-05062oo6/) | 🧠 [GitHub](https://github.com/Pavan-makwana)
 
